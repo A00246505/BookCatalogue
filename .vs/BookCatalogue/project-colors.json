@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "d2c49572-df01-402c-8fa5-24c01dea95c0": {
+      "ProjectGuid": "d2c49572-df01-402c-8fa5-24c01dea95c0",
+      "DisplayName": "BookCatalogue",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}
